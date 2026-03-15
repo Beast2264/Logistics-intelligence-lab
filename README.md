@@ -110,3 +110,17 @@ The lab explores how artificial intelligence and data systems can improve logist
 
 The goal of the Logistics Intelligence Lab is to better understand how modern data infrastructure and AI technologies can improve fleet visibility, dispatch coordination, and transportation efficiency.
 
+
+
+## System Screenshots
+
+### Dispatch Dashboard
+![Dispatch Dashboard](Screenshots/Dispatch-Dashboard.heic)
+
+### Fleet Telemetry Map
+![Fleet Telemetry](Screenshots/Grafana-Telemetry1.heic)
+
+### Lab Infrastructure
+![Proxmox Lab](Screenshots/Proxmox-Lab.heic)
+
+

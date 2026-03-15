@@ -54,6 +54,19 @@ This lab environment uses several technologies to simulate a real-world logistic
 
 ---
 
+## Key Capabilities
+
+This lab environment demonstrates several operational intelligence capabilities commonly used in modern logistics platforms:
+
+- fleet telemetry ingestion and monitoring
+- dispatch visibility and operational dashboards
+- AI-assisted route risk analysis
+- infrastructure monitoring within a virtualized environment
+- simulated fleet operations and asset modeling
+
+The project is designed as a research and learning environment for transportation analytics and logistics system architecture
+
+
 ## System Screenshots
 
 ### Dispatch Dashboard

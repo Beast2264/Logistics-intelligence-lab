@@ -131,6 +131,11 @@ Components include:
 - **Proxmox Lab Infrastructure**
   Hosts the virtual lab environment including security and monitoring systems
 
+  Detailed documentation of the infrastructure environment can be found here:
+
+[Lab Environment Documentation](docs/lab-environment.md)
+
+
   ## Technology Stack
 
 This lab environment uses several technologies to simulate a real-world logistics analytics platform:

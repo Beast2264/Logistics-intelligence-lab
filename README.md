@@ -115,12 +115,14 @@ The goal of the Logistics Intelligence Lab is to better understand how modern da
 ## System Screenshots
 
 ### Dispatch Dashboard
-![Dispatch Dashboard](Screenshots/Dispatch-Dashboard.heic)
+![Dispatch Dashboard](screenshots/Dispatch-Dashboard_.jpg)
 
 ### Fleet Telemetry Map
-![Fleet Telemetry](Screenshots/Grafana-Telemetry1.heic)
+![Fleet Telemetry](screenshots/Grafana_telemetry.jpg)
 
 ### Lab Infrastructure
-![Proxmox Lab](Screenshots/Proxmox-Lab.heic)
+![Proxmox Lab](screenshots/Proxmox-Lab.jpg)
+
+
 
 

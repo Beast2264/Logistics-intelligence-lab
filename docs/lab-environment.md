@@ -1,6 +1,7 @@
 # Lab Environment
 
-The Logistics Intelligence Lab runs inside a virtualized infrastructure hosted on **Proxmox VE**.  
+The Logistics Intelligence Lab runs inside a virtualized infrastructure hosted on **Proxmox VE**.
+
 This environment simulates a small-scale enterprise infrastructure used to support fleet telemetry, analytics, and security testing.
 
 ---
@@ -28,16 +29,14 @@ The lab currently includes the following systems:
 ### Infrastructure
 
 | VM ID | System | Purpose |
-|-----|------|------|
+|------|--------|---------|
 | 200 | FLEET-CORE | Core services and fleet simulation |
 | 201 | fleet-telemetry01 | Telemetry pipeline services |
-
----
 
 ### Security & Network Lab
 
 | VM ID | System | Purpose |
-|-----|------|------|
+|------|--------|---------|
 | 100 | security-ubuntu | Security monitoring and testing |
 | 101 | kali | Penetration testing toolkit |
 | 102 | pfsense | Firewall and network routing |
@@ -70,4 +69,6 @@ The environment is designed to explore the intersection of:
 - AI-assisted logistics operations
 
 This setup allows experimentation with real-world system architecture patterns used by modern logistics technology platforms.
+
+
 

@@ -114,3 +114,16 @@ The lab explores how artificial intelligence and data systems can improve logist
 - transportation analytics
 - operational intelligence dashboards
 - AI-assisted logistics operations
+
+- ## Future Development
+
+Planned improvements for the Logistics Intelligence Lab include:
+
+- real-time telemetry simulation
+- route optimization modeling
+- AI-based anomaly detection for fleet operations
+- expanded dispatch dashboard capabilities
+- additional logistics network analytics
+
+The project will continue evolving as new technologies and operational insights are explored.
+

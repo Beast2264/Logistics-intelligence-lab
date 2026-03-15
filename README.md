@@ -141,6 +141,11 @@ This lab environment uses several technologies to simulate a real-world logistic
 - **Linux** – system environment for services and security labs
 - **Networking tools** – pfSense firewall and virtual network
 
+- For a detailed technical architecture breakdown see:
+
+[System Architecture Documentation](docs/system-architecture.md)
+
+
 
 
 ## System Screenshots

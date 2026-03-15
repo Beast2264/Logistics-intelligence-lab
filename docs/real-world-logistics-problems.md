@@ -1,4 +1,4 @@
- # Real World Logistics Problems
+# Real World Logistics Problems
 
 This project is informed by real-world transportation operations experience within regional freight pickup networks.
 
@@ -98,5 +98,3 @@ Possible solutions explored in this lab include:
 - improved fleet visibility
 - telemetry monitoring
 - AI-assisted dispatch decision support
-
-

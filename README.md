@@ -52,6 +52,21 @@ This lab environment uses several technologies to simulate a real-world logistic
 - **Networking tools** – pfSense firewall and virtual networking
 - **MQTT / Telegraf / InfluxDB** – telemetry ingestion and analytics pipeline
 
+- ## Project Structure
+
+Key components of the repository:
+
+| Directory | Purpose |
+|----------|---------|
+| ai-tools | AI experiments including route risk analysis |
+| dispatch-dashboard | Flask-based fleet dispatch monitoring UI |
+| telemetry-pipeline | Telemetry ingestion architecture documentation |
+| fleet-data | Fleet asset data models |
+| supply-chain-model | Logistics network modeling concepts |
+| docs | System architecture and infrastructure documentation |
+| screenshots | Visual examples of dashboards and infrastructure
+
+
 ---
 
 ## Key Capabilities

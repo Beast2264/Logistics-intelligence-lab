@@ -110,6 +110,26 @@ The lab explores how artificial intelligence and data systems can improve logist
 
 The goal of the Logistics Intelligence Lab is to better understand how modern data infrastructure and AI technologies can improve fleet visibility, dispatch coordination, and transportation efficiency.
 
+ ## System Architecture
+
+The Logistics Intelligence Lab simulates a real-world fleet telemetry and dispatch monitoring environment.
+
+Components include:
+
+- **Fleet Telemetry Simulator**
+  Generates synthetic GPS and vehicle data
+
+- **Telemetry Pipeline**
+  Processes incoming fleet data
+
+- **Dispatch Dashboard**
+  Displays active vehicles and operational metrics
+
+- **Grafana Telemetry Map**
+  Visualizes fleet movement geographically
+
+- **Proxmox Lab Infrastructure**
+  Hosts the virtual lab environment including security and monitoring systems
 
 
 ## System Screenshots

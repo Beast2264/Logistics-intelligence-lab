@@ -131,6 +131,17 @@ Components include:
 - **Proxmox Lab Infrastructure**
   Hosts the virtual lab environment including security and monitoring systems
 
+  ## Technology Stack
+
+This lab environment uses several technologies to simulate a real-world logistics analytics platform:
+
+- **Python** – telemetry simulation and backend logic
+- **Grafana** – fleet visualization dashboards
+- **Proxmox VE** – virtualization infrastructure
+- **Linux** – system environment for services and security labs
+- **Networking tools** – pfSense firewall and virtual network
+
+
 
 ## System Screenshots
 
